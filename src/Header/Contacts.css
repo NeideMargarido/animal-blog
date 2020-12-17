@@ -1,0 +1,5 @@
+.Contacts{
+    /*display:flex; */
+    size: 50px;
+    display: inline-flex;
+}

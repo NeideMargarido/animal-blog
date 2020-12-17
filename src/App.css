@@ -1,0 +1,11 @@
+.App {
+  /*text-align: center;*/
+  color: rgb(10, 3, 31);
+  background-color: rgb(204, 187, 187);
+  min-height: 100vh;
+  font-style: italic;
+  font-family: serif;
+  
+ 
+  margin: auto;
+     }

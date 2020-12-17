@@ -1,0 +1,18 @@
+.header{
+/*background-color: rgb(151, 144, 151);*/
+border: rgb(243, 202, 19);
+/*width: 500px;*/
+/*margin: 50px;*/
+/*max-height: 350px;*/
+/*text-align: center;*/
+display: table;
+align-self: start;
+/*align-items: flex-end;
+float: left;*/
+
+}
+
+.buttonCss {
+    display: inline-block;
+    margin: 10px;
+}
